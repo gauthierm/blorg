@@ -38,7 +38,7 @@
 		"silverorange/silverorange_autoloader": "*",
 		"silverorange/site": "^2.1.45",
 		"silverorange/swat": "^2.2.10",
-		"silverorange/xml_atom": ">=0.1.4",
+		"silverorange/xml_atom": ">=0.1.4"
 	},
 	"require-dev": {
 		"silverorange/turing": ">=0.1.1"
